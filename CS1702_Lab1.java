@@ -25,6 +25,6 @@ public class CS1702_Lab1
 	}
 	public static void Method4()
 	{
-		System.out.println("Hello from Method4!!!");
+		System.out.println("Hello from Method4!!!"); //Even though this is coded last, since Method 4 is 3rd in order in the main output will display this as 3rd line
 	}
 }
